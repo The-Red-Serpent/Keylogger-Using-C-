@@ -57,7 +57,7 @@ If you want to take the course, you can find it [here](https://www.udemy.com/how
 2. Compile the decryption program.
 3. Run the decryption tool:
    ```bash
-   ./Keylogger-Decrypt "inputfile.log" "outputfile.log"
+   ./Decryption "inputfile.log" "outputfile.log"
    ```
 
 ---
